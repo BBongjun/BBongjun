@@ -1,22 +1,6 @@
 # 안녕하세요, 최봉준입니다 👋
 
 
-## 🛠 Tech Stack
-
-### Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-
-### Data & Analysis
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-### Interests
-![Time Series](https://img.shields.io/badge/Time%20Series-0A66C2?style=for-the-badge) ![Anomaly Detection](https://img.shields.io/badge/Anomaly%20Detection-6A5ACD?style=for-the-badge) ![Explainable AI](https://img.shields.io/badge/Explainable%20AI-00897B?style=for-the-badge) ![Industrial AI](https://img.shields.io/badge/Industrial%20AI-455A64?style=for-the-badge)
-
----
-
 ## 👤 About Me
 
 - **M.S. in Data Science**, Seoul National University of Science and Technology
@@ -74,6 +58,22 @@
   GPA: **4.27 / 4.5**
 - **Seoul National University of Science and Technology** B.S. in Industrial & Information Systems Engineering (2018.03 ~ 2024.02)  
   GPA: **4.02 / 4.5**
+
+---
+
+## 🛠 Tech Stack
+
+### Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+### Data & Analysis
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### Interests
+![Time Series](https://img.shields.io/badge/Time%20Series-0A66C2?style=for-the-badge) ![Anomaly Detection](https://img.shields.io/badge/Anomaly%20Detection-6A5ACD?style=for-the-badge) ![Explainable AI](https://img.shields.io/badge/Explainable%20AI-00897B?style=for-the-badge) ![Industrial AI](https://img.shields.io/badge/Industrial%20AI-455A64?style=for-the-badge)
 
 ---
 
