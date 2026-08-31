@@ -4,9 +4,6 @@
 
 I am interested in **Data Mining, Deep Learning, and Multivariate Time-Series Analysis**.
 
-My research focuses on building AI models that not only detect abnormal patterns,
-but also provide interpretable evidence for **why** they are considered anomalous.
-
 ---
 
 ## 🔬 Research
@@ -14,11 +11,12 @@ but also provide interpretable evidence for **why** they are considered anomalou
 ### PIRAD: Prototyping Inter-Variable Relationships for Explainable Multivariate Time-Series Anomaly Detection
 **M.S. Thesis · Outstanding Master's Thesis Award**
 
-- Modeled inter-variable relationships using an **Inverted Transformer**
-- Clustered normal attention maps with **FINCH** to construct reusable relationship prototypes
-- Combined reconstruction error and **attention–prototype discrepancy** for anomaly detection
-- Provided explanations at the **time, variable, and inter-variable relationship** levels
-- Evaluated on **SWaT, MSL, SMAP, SMD, and PSM**
+- Modeled inter-variable associations using an **Inverted Transformer**
+- Clustered normal attention maps with **FINCH** to construct a fixed prototype memory bank
+- Combined reconstruction error and **prototype discrepancy** for anomaly detection
+- Compared observed relationships with matched normal prototypes using **attention–prototype difference maps**
+- Traced the evolution of relational patterns across consecutive windows with a **prototype matching timeline**
+- Evaluated on **SWaT, SMD, PSM, MSL, and SMAP**
 
 ### Multiple Instance Learning for SSD Failure Prediction under Customer Failure-Biased Labels
 **Published in Computers & Industrial Engineering**
